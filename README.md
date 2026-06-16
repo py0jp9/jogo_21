@@ -22,5 +22,8 @@ Observações
 
 
 Ás vale 11, mas vira 1 automaticamente se você passar de 21
+
 J, Q e K valem 10
+
+
 Projeto feito para praticar lógica em Python
