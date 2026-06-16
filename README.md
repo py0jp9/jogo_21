@@ -12,6 +12,7 @@ Você recebe duas cartas e tenta chegar o mais perto de 21 sem passar. A cada ro
 
 
 P → Pedir mais uma carta
+
 S → Parar e deixar o Dealer jogar
 
 
